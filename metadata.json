@@ -1,0 +1,5 @@
+{
+  "name": "DocuMind AI",
+  "description": "A sophisticated RAG-based AI Document Q&A system that allows users to upload documents and engage in deep context-aware conversations.",
+  "requestFramePermissions": []
+}
